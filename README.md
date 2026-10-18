@@ -1,23 +1,32 @@
-# DSA Practice - LeetCode Solutions
+# DSA Practice – LeetCode Solutions
 
-Welcome to my DSA Practice repository!
+Welcome to my DSA Practice repository! 👋
 
-This repository contains my solutions to LeetCode problems, implemented in C++.
+This repository contains my solutions to LeetCode problems, written primarily in C++.
 
-## Topics Covered
-- Arrays
-- Strings
+## 🎯 Goals
+- Strengthen Data Structures and Algorithms concepts.
+- Improve problem-solving and coding skills.
+- Maintain consistency through regular practice.
+
+## 💻 Language
+- C++
+
+## 📚 Topics Covered
+- Arrays and Strings
 - Hashing
-- Recursion and Backtracking
 - Sorting and Searching
+- Recursion and Backtracking
 - Trees and Graphs
 - Dynamic Programming
 
-## Language
-- C++
+## 🔄 Automatic Updates
+Solutions are synced to this repository using the LeetHub v2 Chrome extension after submitting problems on LeetCode.
 
-## Goal
-To improve my Data Structures and Algorithms skills through consistent problem-solving and practice.
+## 🚀 Practice Profile
+[Visit my LeetCode profile](https://leetcode.com/)
+
+Happy Coding! 💻
 
 
 <!---LeetCode Topics Start-->
