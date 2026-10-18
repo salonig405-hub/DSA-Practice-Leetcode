@@ -19,3 +19,15 @@ This repository contains my solutions to LeetCode problems, implemented in C++.
 ## Goal
 To improve my Data Structures and Algorithms skills through consistent problem-solving and practice.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
