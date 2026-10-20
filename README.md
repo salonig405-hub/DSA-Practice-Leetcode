@@ -35,6 +35,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0040-combination-sum-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
