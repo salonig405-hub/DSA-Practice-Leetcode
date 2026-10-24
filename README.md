@@ -36,6 +36,7 @@ Happy Coding! 💻
 | ------- |
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0046-permutations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
@@ -62,6 +63,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0046-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
