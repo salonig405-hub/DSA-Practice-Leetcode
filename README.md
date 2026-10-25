@@ -67,5 +67,10 @@ Happy Coding! 💻
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
