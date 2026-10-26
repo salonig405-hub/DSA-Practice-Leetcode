@@ -43,6 +43,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Happy Coding! 💻
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
@@ -68,6 +71,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
