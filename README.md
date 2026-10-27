@@ -89,4 +89,20 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
