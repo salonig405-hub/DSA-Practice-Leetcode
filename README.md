@@ -82,6 +82,7 @@ Happy Coding! 💻
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
 ## Pigeonhole Principle
 |  |
@@ -107,4 +108,12 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
