@@ -52,11 +52,13 @@ Happy Coding! 💻
 | [0283-move-zeroes](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0344-reverse-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Binary Search
 |  |
 | ------- |
