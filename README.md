@@ -102,14 +102,17 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -118,4 +121,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0002-add-two-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
