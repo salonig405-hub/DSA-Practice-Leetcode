@@ -40,12 +40,14 @@ Happy Coding! 💻
 | [0283-move-zeroes](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
+| [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
