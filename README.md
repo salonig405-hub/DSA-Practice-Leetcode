@@ -46,6 +46,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 ## Two Pointers
@@ -58,6 +59,7 @@ Happy Coding! 💻
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -69,6 +71,7 @@ Happy Coding! 💻
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
