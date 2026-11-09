@@ -47,6 +47,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
@@ -60,6 +61,7 @@ Happy Coding! 💻
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
@@ -141,4 +143,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
