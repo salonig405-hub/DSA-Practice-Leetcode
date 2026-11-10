@@ -40,6 +40,7 @@ Happy Coding! 💻
 | [0283-move-zeroes](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -96,6 +97,7 @@ Happy Coding! 💻
 | [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
