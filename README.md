@@ -37,6 +37,7 @@ Happy Coding! 💻
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0046-permutations) |
+| [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -50,6 +51,7 @@ Happy Coding! 💻
 | [0001-two-sum](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 ## Two Pointers
@@ -70,12 +72,14 @@ Happy Coding! 💻
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
@@ -87,6 +91,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -96,6 +101,7 @@ Happy Coding! 💻
 | [0002-add-two-numbers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Pigeonhole Principle
