@@ -103,6 +103,7 @@ Happy Coding! 💻
 | [0050-powx-n](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0670-maximum-swap](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0670-maximum-swap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Pigeonhole Principle
 |  |
@@ -155,4 +156,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
