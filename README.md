@@ -41,6 +41,7 @@ Happy Coding! 💻
 | [0283-move-zeroes](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
@@ -53,6 +54,7 @@ Happy Coding! 💻
 | [0242-valid-anagram](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3046-split-the-array](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
@@ -160,4 +162,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0670-maximum-swap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
