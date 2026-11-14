@@ -124,6 +124,7 @@ Happy Coding! 💻
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -131,6 +132,7 @@ Happy Coding! 💻
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -138,6 +140,7 @@ Happy Coding! 💻
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Linked List
@@ -172,5 +175,6 @@ Happy Coding! 💻
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/salonig405-hub/DSA-Practice-Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
